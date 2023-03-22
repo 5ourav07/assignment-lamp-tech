@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "image": "https://i.ibb.co/TrrK9RW/Bristy-Bilash.jpg",
+        "title": "Bristy Bilash",
+        "author": "Humayun Ahmed",
+        "publication_date": "01-02-2002",
+        "summary": "Book name is Bristy Bilash by Humayun Ahmed"
+    },
+    {
+        "id": "2",
+        "image": "https://i.ibb.co/jDFL4QK/Deyal.jpg",
+        "title": "Deyal",
+        "author": "Humayun Ahmed",
+        "publication_date": "01-02-2003",
+        "summary": "Book name is Deyal by Humayun Ahmed"
+    },
+    {
+        "id": "3",
+        "image": "https://i.ibb.co/4fYh1vM/Ishtishon.jpg",
+        "title": "Ishtishon",
+        "author": "Muhammed Zafar Iqbal",
+        "publication_date": "01-02-2004",
+        "summary": "Book name is Ishtishon by Muhammed Zafar Iqbal"
+    },
+    {
+        "id": "4",
+        "image": "https://i.ibb.co/vPRNMyt/Nayira.gif",
+        "title": "Nayira",
+        "author": "Muhammed Zafar Iqbal",
+        "publication_date": "01-02-2005",
+        "summary": "Book name is Nayira by Muhammed Zafar Iqbal"
+    },
+    {
+        "id": "5",
+        "image": "https://i.ibb.co/c6KqyCD/Tin-Goyenda-Series-Vol-1-1.jpg",
+        "title": "Tin-Goyenda-Series-Vol-1-1",
+        "author": "Rakib Hasan",
+        "publication_date": "01-02-2006",
+        "summary": "Book name is Tin-Goyenda-Series-Vol-1-1 by Rakib Hasan"
+    },
+    {
+        "id": "6",
+        "image": "https://i.ibb.co/wzCvxGr/Tin-Goyenda-Series-Vol-43.jpg",
+        "title": "Tin-Goyenda-Series-Vol-43",
+        "author": "Rakib Hasan",
+        "publication_date": "01-02-2007",
+        "summary": "Book name is Tin-Goyenda-Series-Vol-43 by Rakib Hasan"
+    }
+]
